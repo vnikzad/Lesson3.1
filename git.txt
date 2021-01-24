@@ -4,3 +4,4 @@ Second staged check.
 First commit check.
 Second commit check.
 New commit!!!
+Fetch check
