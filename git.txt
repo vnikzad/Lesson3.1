@@ -3,3 +3,4 @@ This is staged check.
 Second staged check.
 First commit check.
 Second commit check.
+New commit!!!
