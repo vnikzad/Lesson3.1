@@ -1,3 +1,5 @@
 New Test
 Local change
 Stash Check
+Next Change
+Change again
