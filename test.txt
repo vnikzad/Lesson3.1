@@ -1,2 +1,3 @@
 New Test
 Local change
+Stash Check
